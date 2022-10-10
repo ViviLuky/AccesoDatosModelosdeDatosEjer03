@@ -1,0 +1,13 @@
+<alumnos>
+    <alumno id_estudiante="a01">
+    <nombre>José</nombre>
+    <apellidos>Sánchez Pérez</apellidos>
+    <asignaturas_matriculadas>4</asignaturas_matriculadas>
+</alumno>
+
+<alumno id_estudiante="a10">
+<nombre>Hector</nombre>
+<apellidos>Garcia Amat</apellidos>
+<asignaturas_matriculadas>2</asignaturas_matriculadas>
+        </alumno>
+        </alumnos>
